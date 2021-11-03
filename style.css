@@ -4,5 +4,6 @@ div {
   background-color: white;
   width: 960px;
   color: black;
+  border-radius: 15px 15px 15px 15px;
 }
 
