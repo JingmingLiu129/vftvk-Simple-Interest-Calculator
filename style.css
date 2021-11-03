@@ -1,12 +1,8 @@
 body {background-color:black;}
 h1{color:grey;}
-.box1 {
-    width: 540px;
-    margin-top: 30px;
-    text-align: left;
-    background-color: rgb(250, 206, 124);
-    color: rgb(1, 39, 78);
-    border-radius: 15px 15px 15px 15px;
-    font: "Helvetica", Arial, sans-serif;
+div {
+  background-color: white;
+  width: 960px;
+  color: black;
 }
 
