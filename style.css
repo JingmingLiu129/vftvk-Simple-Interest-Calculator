@@ -1,12 +1,10 @@
 body {background-color:black;}
-h1{color:grey;}
-div {
-  background-color: white;
+h1 {color:grey;
+  text-align:center;}
+div {background-color: white;
   width: 960px;
   color: black;
   margin-top: 15px;
   border-radius: 25px 25px 25px 25px;
-}
-h1{
-  text-align:center;
-}
+  margin: 0 auto;}
+table {margin: 0 auto;}
