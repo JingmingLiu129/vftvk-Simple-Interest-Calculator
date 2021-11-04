@@ -6,6 +6,7 @@ div {background-color: white;
   color: black;
   margin-top: 15px;
   border-radius: 25px 25px 25px 25px;
-  margin: 0 auto;}
+  margin: 0 auto;
+  padding: 10px 10px 10px 10px;}
 table {margin: 0 auto;}
-footer {left: 10px;}
+
