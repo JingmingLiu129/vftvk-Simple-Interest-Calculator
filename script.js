@@ -4,7 +4,7 @@ function compute()
     var r = document.getElementById("rate").value;
     var y = document.getElementById("years").value;
     getResult = function () {
-        let getresult = p*r*y
+        let getresult = p*r*y/100
     }；
     alert('If you deposit ' + p + ',');
     alert('at an interest rate of ' + r + '.');
