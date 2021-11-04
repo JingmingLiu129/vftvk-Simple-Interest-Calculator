@@ -6,8 +6,8 @@ function compute()
     getResult = function () {
         let getresult = p*r*y
     }；
-    alert.log('If you deposit ' + p + ',');
-    alert.log('at an interest rate of ' + r + '.');
-    alert.log('You will receive an amount of ' + getResult + ',');
-    alert.log('in the year ' + r );
+    alert('If you deposit ' + p + ',');
+    alert('at an interest rate of ' + r + '.');
+    alert('You will receive an amount of ' + getResult + ',');
+    alert('in the year ' + r );
 }；
