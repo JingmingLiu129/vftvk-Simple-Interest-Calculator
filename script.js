@@ -1,8 +1,8 @@
 function compute()
 {
-    p = document.getElementById("principal").value;
-    r = document.getElementById("rate").value;
-    y = document.getElementById("years").value;
+    var p = document.getElementById("principal").value;
+    var r = document.getElementById("rate").value;
+    var y = document.getElementById("years").value;
     getResult = function () {
         let getresult = p*r*y
     }；
