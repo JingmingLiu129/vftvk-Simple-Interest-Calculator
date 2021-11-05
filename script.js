@@ -17,11 +17,6 @@ function compute()
     years1.onkeyup = function() {
             div3.innerText = years1.value;
         }
-        //点击按钮,通过类样式的方式设置div的显示和隐藏
-        // function compute() {
-        //     console.log('1');
-        //     bon2.classList.remove("bon2")
-        // };
     var flag = true
     btn1.onclick = function() {
         if (flag) {
